@@ -9,6 +9,8 @@ verify_ssl = true
 flask = "*"
 pylint = "*"
 autopep8 = "*"
+colorama = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"

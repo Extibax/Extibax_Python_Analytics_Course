@@ -1,0 +1,9 @@
+* babel-plugin-syntax-dynamic-import
+* babel-polyfill
+* enzyme
+* enzyme-to-json
+* google-maps-react
+* leaflet
+* leaflet-routing-machine
+* leaflet.markercluster
+* redux-mock-store
